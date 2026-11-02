@@ -9,7 +9,7 @@ Trabalho da disciplina de Programação de Sistemas Web (UEM).
 - HTML
 - CSS
 - Bootstrap 5.3
-- JavaScript (apenas no botão de imprimir e na confirmação de remoção)
+- JavaScript (validação dos formulários de cadastro e alteração, confirmação de remoção e botão de imprimir)
 
 ## Funcionalidades
 
